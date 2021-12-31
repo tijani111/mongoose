@@ -1,0 +1,17 @@
+{
+  "name": "initmongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongoose": "^6.1.4",
+    "nodemon": "^2.0.15",
+    "validator": "^13.7.0"
+  }
+}
